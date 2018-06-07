@@ -9,3 +9,5 @@
 to get working properly please run command in console (you should change directory to this project):
 
 `php composer.phar install` 
+
+SQL backup file: *test.sql*
